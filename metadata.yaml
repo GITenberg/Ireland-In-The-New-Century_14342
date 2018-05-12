@@ -1,0 +1,34 @@
+_repo: Ireland-In-The-New-Century_14342
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plunkett, Horace Curzon, Sir
+    birthdate: 1854
+    deathdate: 1932
+    gutenberg_agent_id: '5482'
+    url: http://www.gutenberg.org/2009/agents/5482
+    wikipedia: http://en.wikipedia.org/wiki/Horace_Curzon_Plunkett
+description: 'I. Theoretical: The English misunderstanding. The Irish question in
+  Ireland. The influence of politics upon the Irish mind. The influence of religion
+  upon secular life in Ireland. A practical view of Irish education. Through thought
+  to action.--II. Practical: The new movement its foundation on self-help. The Recess
+  Committee. A new departure in Irish administration. Government with the consent
+  of the governed.--Epilogue.--Index.'
+gutenberg_issued: '2004-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14342'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irish question'
+- !lcc 'DA'
+- !lcsh 'Ireland -- Politics and government -- 1901-1910'
+- !lcsh 'Ireland -- Economic conditions'
+title: Ireland In The New Century
+url: http://www.gutenberg.org/ebooks/14342
